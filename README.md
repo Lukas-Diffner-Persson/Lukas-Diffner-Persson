@@ -1,30 +1,26 @@
-I'm [Your Name], a [Your Role/Title] passionate about [Your Interests]. Welcome to my GitHub profile!
+I'm Lukas Diffner-Persson, a Student passionate about VideoGames. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🌱 I'm currently learning [What you're learning].
-- 💼 I work at [Where you work].
-- 📫 You can reach me at [Your Email] or [Your Website].
+- 🌱 I'm currently learning Networking and Programing.
+- 💼 I Study at Polhemskolan.
+- 📫 You can reach me at Lukas.diffner-persson@skola.gavle.se.
 
 ## My Projects
 
 Here are some of the projects I've been working on:
 
-1. [Project 1](link-to-project-1): Brief description.
-2. [Project 2](link-to-project-2): Brief description.
-3. [Project 3](link-to-project-3): Brief description.
+1. [WebPage](https://github.com/Polhemsskolan-DATA/sidmallen-Lukas-Diffner-Persson): A Webpage i am working on for a school project.
 
 ## Skills
 
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- ...
+- I'm lucky
+- I'm good at fighting games
+- I can socelize with others easily
 
 ## Connect with Me
 
-- [LinkedIn](your-LinkedIn-profile-link)
-- [Twitter](your-Twitter-profile-link)
+- [Teams](Lukas.diffner-persson@skola.gavle.se)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
 
