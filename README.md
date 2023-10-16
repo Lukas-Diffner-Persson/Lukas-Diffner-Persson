@@ -21,7 +21,7 @@ Here are some of the projects I've been working on:
 ## Connect with Me
 
 [Outlook](Lukas.diffner-persson@skola.gavle.se)
-My Teams: Lukas.diffner-persson@skola.gavle.se
+
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
 
