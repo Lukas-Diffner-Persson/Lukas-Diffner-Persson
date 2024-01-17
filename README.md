@@ -2,9 +2,9 @@ I'm Lukas Diffner-Persson, a Student passionate about VideoGames. Welcome to my 
 
 ## About Me
 
-- 🌱 I'm currently learning Networking and Programing.
-- 💼 I Study at Polhemskolan.
-- 📫 You can reach me at Lukas.diffner-persson@skola.gavle.se.
+- 🌱 I'm currently learning Networking and Programming.
+- 💼 I Study at Polhemsskolan.
+- 📫 You can reach me at Lukas.diffner-persson@skola.gavle
 
 ## My Projects
 
@@ -14,7 +14,7 @@ Here are some of the projects I've been working on:
 
 ## Skills
 
-- I'm lucky
+- I have a lot of patience
 - I'm good at fighting games
 - I can socelize with others easily
 
