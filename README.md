@@ -16,7 +16,7 @@ Here are some of the projects I've been working on:
 
 - I have a lot of patience
 - I'm good at fighting games
-- I can socelize with others easily
+- I can socialize with others easily
 
 ## Connect with Me
 
